@@ -1,0 +1,43 @@
+body {
+    background-color: pink;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.sorry-container {
+    text-align: center;
+}
+
+.gif-image img {
+    max-width: 100%;
+    height: auto;
+}
+.text{
+    font-weight: 700;
+    font-family: cursive;
+    font-size: 50px;
+}
+
+.buttons {
+    margin-left: 200px;
+    display: flex;
+    justify-content: center;
+    width: 60%;/* Adjust width as needed */
+    height: 100%;
+    margin-top: 20px;
+}
+
+button {
+    background-color: rgb(235, 155, 168);
+    border-radius: 10%;
+    padding: 10px 20px;
+    margin: 10px;
+    position: relative;
+}
+
+.move-button {
+    position: relative; 
+}
