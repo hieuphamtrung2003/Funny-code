@@ -33,7 +33,8 @@ function Sorry() {
                 <img src="https://media1.giphy.com/media/Lfi2G7BzY15333JtK1/giphy.gif?cid=6c09b952t4c32macs3n3jmiyirf7akhexsol4drb6ifspstl&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" alt="Sorry GIF" />
             </div>
             <div className="text">
-                chị oi, em xin lũi mừ. Chị tha lỗi cho em nhaaaa
+                {/* chị oi, em xin lũi mừ. Chị tha lỗi cho em nhaaaa */}
+                Xin lỗi mà, Tha lỗi nha
             </div>
             <div className="buttons">
                 <button onClick={handleSuccessClick}>okeee nè</button>
