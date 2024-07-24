@@ -37,7 +37,7 @@ function Sorry() {
                 Xin lỗi mà, Tha lỗi nha
             </div>
             <div className="buttons">
-                <button onClick={handleSuccessClick}>okeee nè</button>
+                <button onClick={handleSuccessClick}>okeee </button>
                 <button ref={noButtonRef} onMouseEnter={moveButton} className="move-button">không</button>
             </div>
         </div>
